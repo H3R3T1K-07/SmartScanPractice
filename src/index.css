@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#cb60b3+0,e87f00+0,db36a4+100 */
+	background: #cb60b3; /* Old browsers */
+	background: -moz-linear-gradient(-45deg,  #cb60b3 0%, #e87f00 0%, #db36a4 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg,  #cb60b3 0%,#e87f00 0%,#db36a4 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg,  #cb60b3 0%,#e87f00 0%,#db36a4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cb60b3', endColorstr='#db36a4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 code {
